@@ -1,4 +1,4 @@
-# Streamlining Ticket Assignment for Efficient Support Operation ServiceNow
+# Streamlining Ticket Assignment for Efficient Support Operations ServiceNow
 
 This project implements a structured and automated approach to streamline ticket assignment in **ServiceNow**.
 It ensures issues are routed to the correct groups automatically, reducing manual effort and improving turnaround time.
