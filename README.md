@@ -66,7 +66,7 @@ Service requests often involve repetitive manual assignment of tickets, which ca
 
 - Saved and activated flows for seamless automation  
 
-##✅ Conclusion
+## Conclusion
 
 This project successfully streamlines the ticket assignment process in ServiceNow by combining structured access management, secure ACL configurations, and Flow Designer automation.
 
